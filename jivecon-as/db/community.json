@@ -1,0 +1,6 @@
+{
+  "http://localhost:8080": {
+    "jiveUrl": "http://localhost:8080",
+    "jiveCommunity": "localhost"
+  }
+}

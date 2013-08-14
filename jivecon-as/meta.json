@@ -1,0 +1,16 @@
+{
+"package_version": "1.0",
+"id": "cd6ba89a-bb48-4815-a3d7-5b29fc2a539f",
+"type": "client-app",
+"name": "Integration Example",
+"description": "This is a test extension",
+"minimum_version": "0070300000",
+"register_url": "http://localhost:8090/jive/oauth/register",
+"service_url" : "http://localhost:8090/jivecon-as",
+"config_url": "http://localhost:8090/jivecon-as/configure",
+"status": "available",
+"released_on": "2013-03-08T19:11:11.234Z",
+"icon_16": "icon-green16.png",
+"icon_48": "icon-green48.png",
+"icon_128": "icon-green128.png"
+}

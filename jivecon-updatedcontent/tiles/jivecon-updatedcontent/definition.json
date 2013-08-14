@@ -1,0 +1,24 @@
+{
+    "sampleData" : {
+        "title" : "jivecon-updatedcontent list",
+        "contents" : [ {
+            "text" : "Initial text to be replaced"
+        } ],
+        "config" : {
+               "listStyle" : "contentList"
+        },
+        "action" : {
+            "text" : "Action Link",
+            "context" : { "test" : "data" }
+        }
+    },
+    "displayName" : "jivecon-updatedcontent",
+    "name" : "jivecon-updatedcontent",
+    "description" : "jivecon-updatedcontent",
+    "style" : "LIST",
+    "icons" : {
+        "16" : "http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/hdr-main.gif",
+        "48" : "http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/hdr-main.gif",
+        "128" : "http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/hdr-main.gif"
+    }
+}

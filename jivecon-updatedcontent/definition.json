@@ -1,0 +1,27 @@
+{
+   "tiles":[
+            {
+                "sampleData": {},
+                "displayName": "jivecon-as",
+                "name": "jivecon-as",
+                "description": "jivecon-as for dv4q5qnb99o7dgnawl7jpn7i8plrsnl8",
+                "style": "ACTIVITY",
+                "icons": {
+                    "16": "http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/hdr-main.gif",
+                    "48": "http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/hdr-main.gif",
+                    "128": "http://i.cdn.turner.com/cnn/.e/img/3.0/global/header/hdr-main.gif"
+                },
+                "id": "5559754b-071e-4446-89b7-3591060f12ea",
+                "published": "2013-02-28T15:12:16.768-0800",
+                "updated": "2013-02-28T15:12:16.768-0800",
+                "config": "http://localhost:8090/jivecon-as/configure",
+                "register": "http://localhost:8090/registration",
+                "client_id": "dv4q5qnb99o7dgnawl7jpn7i8plrsnl8"
+            }
+],
+    "integrationUser": {
+        "systemAdmin": true,
+        "runAsStrategy": "email",
+        "jiveServiceSignature": "302d0215008509979853bece0b649905f97c37687c1d9fcefe02141754b1d500ce72f993552df81ecdc519ffd0e79d"
+    }
+}

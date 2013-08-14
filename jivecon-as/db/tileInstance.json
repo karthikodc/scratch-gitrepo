@@ -1,0 +1,16 @@
+{
+  "0a245ae6-602f-4d5b-8f3f-e98f5411ae14": {
+    "url": "http://localhost:8080/api/jivelinks/v1/tiles/1020/data",
+    "config": {
+      "parent": "http://localhost:8080/api/core/v3/places/1007",
+      "startSequence": "222"
+    },
+    "name": "jivecon-updatedcontent",
+    "accessToken": "eeq895cbhk4l8sv68zpnyxxj3p5y2veijhdbwcmo.t",
+    "expiresIn": "172799",
+    "refreshToken": "62yefo7kjdb1ofp6i14a1rm7o4d6u6xdg8xgm6t6.r",
+    "scope": "uri:/api/jivelinks/v1/tiles/1020",
+    "jiveCommunity": "localhost",
+    "id": "0a245ae6-602f-4d5b-8f3f-e98f5411ae14"
+  }
+}

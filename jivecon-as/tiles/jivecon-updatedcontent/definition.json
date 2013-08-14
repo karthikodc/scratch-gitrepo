@@ -1,0 +1,24 @@
+{
+    "sampleData" : {
+        "title" : "jivecon-updatedcontent list",
+        "contents" : [ {
+            "text" : "Initial text to be replaced"
+        } ],
+        "config" : {
+               "listStyle" : "contentList"
+        },
+        "action" : {
+            "text" : "Action Link",
+            "context" : { "test" : "data" }
+        }
+    },
+    "displayName" : "jivecon-updatedcontent",
+    "name" : "jivecon-updatedcontent",
+    "description" : "jivecon-updatedcontent",
+    "style" : "LIST",
+    "icons" : {
+        "16" : "http://localhost:8090/images/coderunner1-16.png",
+        "48" : "http://localhost:8090/images/coderunner1-48.png",
+        "128" : "http://localhost:8090/images/coderunner1-128.png"
+    }
+}
